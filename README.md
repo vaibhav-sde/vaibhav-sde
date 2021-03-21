@@ -54,3 +54,10 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+
+
+[website]: https://vaibhavjadhav.pro
+[twitter]: https://twitter.com
+[youtube]: https://www.youtube.com/channel/UCwC5kY9ssi1VAkwsDgPA14g
+[instagram]: https://www.instagram.com/vaibhav.jadhav.csm/
+[linkedin]: https://www.linkedin.com/in/vaibhav-jadhav-dev/
