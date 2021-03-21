@@ -5,15 +5,15 @@
 
 ## I'm a Developer, Gamer and a normal Huamn!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just created so many cool react projects.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other programmers.
+- 🥅 2021 Goals: getting job/ buying gaming laptop 🤣.
+- ⚡ Fun fact: I am full stack developer but I hate FrontENd.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/1E7kD5wnDgBGtEFvUL5UWv)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="one of FAv track" width="350" />](https://open.spotify.com/album/3pM3t0yUjPRZTkatfJMltp)
 
 ### Connect with me:
 
@@ -47,22 +47,6 @@
 <br />
 <br />
 
----
-
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
----
-
-<details>
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
