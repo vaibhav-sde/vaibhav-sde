@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaibhav - aka [AsyncDev][website] 👋
 
-## I'm a Developer, Gamer and a normal Huamn!!
+## I'm a Developer, Gamer and a normal Huaman!!!!!..
 
 - 🔭 I just created so many cool react projects.
 - 🌱 I’m currently learning everything 🤣
