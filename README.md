@@ -1,7 +1,5 @@
 ### Hi there, I'm Vaibhav - aka [AsyncDev][website] 👋
 
-[![Website](https://vaibhavjadhav.pro)
-
 ## I'm a Developer, Gamer and a normal Huamn!!
 
 - 🔭 I just created so many cool react projects.
